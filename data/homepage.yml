@@ -36,11 +36,14 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I'm a data scientist from Mexico City. I'm doing a masters in Data Science at Duke
-    University.
+    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
+    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
+    good for all of you.
     </p>
     <p class="lead">
-    I am interested in implementing Machine Learning models in the cloud.
+    My area of focus lies in designing web and mobile products, user research as well as
+    leading of design & front-end teams. I enjoy designing and coding the UI as much as
+    talking with users to iterate and improve the experiences that reach business goals.
     </p>'
   button:
     icon: "icon-smile-fill"
