@@ -4,11 +4,11 @@ showcase:
   title: "Hello, I’m Sebastián."
   subtitle: "Data Scientist"
   description: "I work at <a target='_blank' href='https://duke.edu/'>Duke University</a>, in Durham, NC, United States."
-#  image:
-#    x: "img/showcase/showcase.png"
-#    _2x: "img/showcase/showcase@2x.png"
-#  imageMobile:
-#    x: "img/showcase/showcase-mobile.jpg"
+  image:
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
 
   button:
     icon: "icon-mail-fill"
@@ -45,9 +45,9 @@ about:
     icon: "icon-smile-fill"
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/sebastiansoriano91/"
-  image:
-    x: "img/who-am-i/user-picture.png"
-    _2x: "img/who-am-i/user-picture@2x.png"
+#  image:
+#    x: "img/who-am-i/user-picture.png"
+#    _2x: "img/who-am-i/user-picture@2x.png"
 
 # education
 education:
