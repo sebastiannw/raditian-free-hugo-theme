@@ -4,11 +4,11 @@ showcase:
   title: "Hello, I’m Sebastián."
   subtitle: "Data Scientist"
   description: "I work at <a target='_blank' href='https://duke.edu/'>Duke University</a>, in Durham, NC, United States."
-  image:
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
-  imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+#  image:
+#    x: "img/showcase/showcase.png"
+#    _2x: "img/showcase/showcase@2x.png"
+#  imageMobile:
+#    x: "img/showcase/showcase-mobile.jpg"
 
   button:
     icon: "icon-mail-fill"
@@ -96,7 +96,7 @@ experience:
 # Client & Work
 client_and_work:
   title: "Clients & Works"
-  enable: true
+  enable: false
 
   clients:
     - logo:
@@ -165,7 +165,7 @@ client_and_work:
 
 # testimonial
 testimonial:
-  enable: true
+  enable: false
   title: "Testimonials"
   items:
     - name: "Daniel Jordan"
@@ -200,20 +200,20 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+    number: "+1 (919) 717 5174"
   email:
     title: "Email"
     email: '<a href="mailto:sebastian.soriano91@gmail.com">sebastian.soriano91@gmail.com</a>'
   address:
     title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    address: "929 Morreene Rd<br />Durham, NC 27705"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false
   title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
